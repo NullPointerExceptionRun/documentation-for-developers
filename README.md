@@ -1,0 +1,8 @@
+# PROJECT DOCUMENTATION FOR DEVELOPERS (EM CONSTANTE ATUALIZAÇÃO)
+
+## Descrição:
+
+
+## Motivação:
+
+
