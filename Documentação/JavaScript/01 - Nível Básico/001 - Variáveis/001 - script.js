@@ -9,4 +9,4 @@ var nome = "Wesley"; // A variável do tipo string, que nada mais é do que um t
 
 var idade = 21; // A variável do tipo number, que são números.
 
-var maiorDeIdade = true; // A variável do tipo bolean, que recebe os atributos "true" e "false".
+var maiorDeIdade = true; // A variável do tipo bolean, que recebe os atributos "true" e "false" que nos retorna verdadeiro ou falso.
